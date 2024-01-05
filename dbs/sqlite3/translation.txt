@@ -1,5 +1,0 @@
-retiisi -> radish
-porkkana -> carrot
-nauris -> turnip
-lanttu -> swede
-selleri -> celery
